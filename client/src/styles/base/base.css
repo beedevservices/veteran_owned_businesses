@@ -1,0 +1,60 @@
+.flexrow {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.flexcolumn {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.redShadow {
+  box-shadow: 0 0.25em 0.75em #b3213475;
+}
+.redInset {
+  box-shadow: 0 0.25em 0.75em #b3213475 inset;
+}
+.blueShadow {
+  box-shadow: 0 0.25em 0.75em #3d3b6d75;
+}
+.blueInset {
+  box-shadow: 0 0.25em 0.75em #3d3b6d75 inset;
+}
+.blackShadow {
+  box-shadow: 0 0.25em 0.75em #00000075;
+}
+.blackInset {
+  box-shadow: 0 0.25em 0.75em #00000075 inset;
+}
+.greenShadow {
+  box-shadow: 0 0.25em 0.75em #374A2F75;
+}
+.greenInset {
+  box-shadow: 0 0.25em 0.75em #374A2F75 inset;
+}
+.goldShadow {
+  box-shadow: 0 0.25em 0.75em #FFEF0075;
+}
+.goldInset {
+  box-shadow: 0 0.25em 0.75em #FFEF0075 inset;
+}
+.brownShadow {
+  box-shadow: 0 0.25em 0.75em #46372575;
+}
+.brownInset {
+  box-shadow: 0 0.25em 0.75em #46372575 inset;
+}
+.tanShadow {
+  box-shadow: 0 0.25em 0.75em #7F7D5775;
+}
+.tanInset {
+  box-shadow: 0 0.25em 0.75em #7F7D5775 inset;
+}
+.dkBrownShadow {
+  box-shadow: 0 0.25em 0.75em #27212075;
+}
+.dkBrownInset {
+  box-shadow: 0 0.25em 0.75em #27212075 inset;
+}
